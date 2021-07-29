@@ -2,7 +2,7 @@
 
 The Temple Generator enables you to recreate ancient greek temples or create your very own. It follows the design principles of the Doric order, but it's procedural nature allows the temple to also become free of them.  
 
-![Generated Temple](different_temple.png)
+![Generated Temple](different_temple.PNG)
 
 
 ## Concept
@@ -33,7 +33,7 @@ For the temple itself I got stuck for a while trying to paramterize the stairs l
 
 The generator actually works quite well to generate temples of the Doric order, albeit rather simple geomtry. Pretty much everything is paramterized and enables the user to rapidly create different looking temples.
 
-![Generated Pantheon](generated_akropolis.png)
+![Generated Pantheon](generated_akropolis.PNG)
 
 [![Temple Generator](http://img.youtube.com/vi/ZDyM-RR_DQc/0.jpg)](http://www.youtube.com/watch?v=ZDyM-RR_DQc "Temple Generator")
 
